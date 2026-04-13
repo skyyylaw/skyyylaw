@@ -2,6 +2,9 @@
 
 B.S. Computer Science @ Columbia University (2026)
 
+## Resume
+[View my resume (PDF)](./Luo_Sky_Resume_SWE.pdf) | [LinkedIn](https://linkedin.com/in/skyluo24/)
+
 ## Experience
 - **Software Engineer Intern @ Intuit** — Built LLM-powered tools including a legislative tracker, a competitive analysis AI agent, and a PR scanning tool in Python, React, and LangChain
 - **Software Engineer Intern @ Lazard** — Built backend services for Lazard's Agentic AI platform and implemented an ML CI/CD pipeline using FastAPI, LangChain, and Terraform
